@@ -1,14 +1,14 @@
-# Banco-de-Dados-Boladao
+# Banco de Dados Boladão
  
-    01 - Introdução - 04/10/23 
-    02 - O que é banco de dados - 04/10/23 
-    03 - Instalação SQL Server Windows(SSMS+Azure) - 04/10/23
-    04 - Overview SSMS+Customizacoes - 04/10/23
-    05 - Instalação SQL Server no Ubuntu - 04/10/23
-    06 - Instalação do Azure Data Studio + base (AdventureWorks2019) - 04/10/23
-    07 - Instalação do DBeaver no Ubuntu - 04/10/23
-    08 - Instalação do SQL Server via Docker (Ubuntu) - 04/10/23
-    09 - SQL Instrução SELECT - 04/10/23
+    01 - Introdução - *04/10/23* 
+    02 - O que é banco de dados - *04/10/23* 
+    03 - Instalação SQL Server Windows(SSMS+Azure) - *04/10/23*
+    04 - Overview SSMS+Customizacoes - *04/10/23*
+    05 - Instalação SQL Server no Ubuntu - *04/10/23*
+    06 - Instalação do Azure Data Studio + base (AdventureWorks2019) - *04/10/23*
+    07 - Instalação do DBeaver no Ubuntu - *04/10/23*
+    08 - Instalação do SQL Server via Docker (Ubuntu) - *04/10/23*
+    09 - SQL Instrução SELECT - *04/10/23*
     10 - SQL Instrução SELECT(TOP, DISTINCT, ORDER BY)
     11 - SQL Instrução SELECT(ORDER BY, OFFSET FETCH)
     12 - Operadores Aritméticos
