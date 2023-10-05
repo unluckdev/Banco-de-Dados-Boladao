@@ -1,6 +1,6 @@
 # Banco-de-Dados-Boladao
  
-01 - Introdução<br>
+    01 - Introdução - 04/10/23<br>
     02 - O que é banco de dados - 04/10/23<br> 
     03 - Instalação SQL Server Windows(SSMS+Azure) - 04/10/23<br>
     04 - Overview SSMS+Customizacoes - 04/10/23<br>
